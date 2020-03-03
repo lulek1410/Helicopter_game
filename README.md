@@ -1,1 +1,1 @@
-# Helicopter_game
+Simple Game using pygame.
